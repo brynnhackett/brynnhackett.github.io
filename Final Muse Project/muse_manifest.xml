@@ -1,0 +1,154 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="navigationmuse.com" resolutions="1x" timestamp="1541423486809">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="variation-1a.css" crc="4262113827" ref="variation-1a"/>
+    <file name="variation-4.css" crc="391256859" ref="variation-4"/>
+    <file name="variation-3a.css" crc="345688025" ref="variation-3a"/>
+    <file name="variation-1.css" crc="3998662257" ref="variation-1"/>
+    <file name="variation-2a.css" crc="3825778730" ref="variation-2a"/>
+    <file name="variation-3.css" crc="359502460" ref="variation-3"/>
+    <file name="variation-2.css" crc="168775950" ref="variation-2"/>
+    <file name="variation-4a.css" crc="5210929" ref="variation-4a"/>
+    <file name="variation-5a.css" crc="4153485370" ref="variation-5a"/>
+    <file name="variation-5.css" crc="185581549" ref="variation-5"/>
+    <file name="index.css" crc="4261385503" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="hackett_project1.html" crc="4094826178" seo="true" mt="1536706635000"/>
+    <file name="audiohtml.html" crc="18049560" seo="true" mt="1539781176000"/>
+    <file name="abandonedstop.jpg" crc="535615663" seo="true" mt="1536523016000"/>
+    <file name="apartments.png" crc="468521939" seo="true" mt="1536539805000"/>
+    <file name="apartments1.jpg" crc="83399926" seo="true" mt="1536539929000"/>
+    <file name="brokenangel.jpg" crc="361822657" seo="true" mt="1536522599000"/>
+    <file name="brokenangel1.jpg" crc="166237808" seo="true" mt="1536538112000"/>
+    <file name="manontower.jpg" crc="361983962" seo="true" mt="1536522635000"/>
+    <file name="manontower1.jpg" crc="4292387848" seo="true" mt="1536538087000"/>
+    <file name="subwayhall.jpg" crc="3962491337" seo="true" mt="1536522911000"/>
+    <file name="5e4ad99c2caca6d8d68a492bf6da0b6e.jpg" crc="4224791475" seo="true" mt="1536540737000"/>
+    <file name="9820909dfdb0be92c99f8a7469aab492.jpg" crc="101584631" seo="true" mt="1536540691000"/>
+    <file name="drawers.jpg" crc="4137696800" seo="true" mt="1536540882000"/>
+    <file name="driving.jpg" crc="116913630" seo="true" mt="1536541054000"/>
+    <file name="headinclouds.png" crc="4057455541" seo="true" mt="1536540725000"/>
+    <file name="3647616581_9a483a50d6_o.jpg" crc="63700788" seo="true" mt="1536522334000"/>
+    <file name="angelnature.jpg" crc="417280147" seo="true" mt="1536522290000"/>
+    <file name="angelnature1.jpg" crc="3878182161" seo="true" mt="1536538185000"/>
+    <file name="ferriswheel.jpg" crc="4221436628" seo="true" mt="1536538213000"/>
+    <file name="ferriswheel1.jpg" crc="236729846" seo="true" mt="1536539366000"/>
+    <file name="rainywindow.jpeg" crc="4217755846" seo="true" mt="1536522265000"/>
+    <file name="rainywindow1.jpg" crc="102028825" seo="true" mt="1536538163000"/>
+    <file name="7406483100_d669a23870_o.jpg" crc="230035925" seo="true" mt="1536522436000"/>
+    <file name="apartments.jpg" crc="3980368707" seo="true" mt="1536539775000"/>
+    <file name="doublearrow.jpg" crc="435002241" seo="true" mt="1536540041000"/>
+    <file name="streetlines1.jpg" crc="60234594" seo="true" mt="1536539537000"/>
+    <file name="twistedarrow.jpg" crc="4126026963" seo="true" mt="1536540003000"/>
+    <file name="twistedarrow1.jpg" crc="77373321" seo="true" mt="1536540132000"/>
+    <file name="manwalkingdowntunnel.jpg" crc="3955467294" seo="true" mt="1536522563000"/>
+    <file name="peoplewalking.jpg" crc="179256328" seo="true" mt="1536522483000"/>
+    <file name="peoplewalking1.jpg" crc="535195262" seo="true" mt="1536539466000"/>
+    <file name="womanwalking.jpg" crc="4019000583" seo="true" mt="1536522580000"/>
+    <file name="color.gif" crc="487958089" seo="true" mt="1540356632000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:variation-1:variation-2:variation-5:variation-4:variation-3:variation-1a:variation-2a:variation-3a:variation-4a:variation-5a"/>
+    <file name="museutils.js" crc="340535759" ref="index:variation-1:variation-2:variation-5:variation-4:variation-3:variation-1a:variation-2a:variation-3a:variation-4a:variation-5a"/>
+    <file name="whatinput.js" crc="86476730" ref="index:variation-1:variation-2:variation-5:variation-4:variation-3:variation-1a:variation-2a:variation-3a:variation-4a:variation-5a"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:variation-1:variation-2:variation-5:variation-4:variation-3:variation-1a:variation-2a:variation-3a:variation-4a:variation-5a"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:variation-1:variation-2:variation-5:variation-4:variation-3:variation-1a:variation-2a:variation-3a:variation-4a:variation-5a"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:variation-3"/>
+    <file name="require.js" crc="7928878" ref="index:variation-1:variation-2:variation-5:variation-4:variation-3:variation-1a:variation-2a:variation-3a:variation-4a:variation-5a"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-1366x890.svg" crc="447161451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 1366x890_poster_.png" crc="63772537" ref="index"/>
+    <file name="pasted-svg-12172x117.svg" crc="83711391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 12172x117_poster_.png" crc="4176210223" ref="index"/>
+    <file name="pasted-svg-32123x331.svg" crc="3799307938" seo="true" ref="index:variation-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="variation-3" alt=""/>
+      <caption webpage="variation-3" alt=""/>
+    </file>
+    <file name="pasted svg 32123x331_poster_.png" crc="4142367492" ref="index"/>
+    <file name="pasted-svg-94802x136.svg" crc="255499596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 94802x136_poster_.png" crc="3873058541" ref="index"/>
+    <file name="pasted-svg-110014x118.svg" crc="301172810" seo="true" ref="index:variation-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="variation-3" alt=""/>
+    </file>
+    <file name="pasted svg 110014x118_poster_.png" crc="298185527" ref="index"/>
+    <file name="pasted-svg-42355x328.svg" crc="34243425" seo="true" ref="index:variation-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="variation-3" alt=""/>
+    </file>
+    <file name="pasted svg 42355x328_poster_.png" crc="465074430" ref="index"/>
+    <file name="pasted-svg-42355x3282.svg" crc="34243425" seo="true" ref="index:variation-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="variation-3" alt=""/>
+    </file>
+    <file name="pasted svg 42355x328_poster_2.png" crc="3793166163" ref="index"/>
+    <file name="pasted-svg-727099x451.svg" crc="4103260888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 727099x451_poster_.png" crc="4181931121" ref="index"/>
+    <file name="pasted-svg-370731x465.svg" crc="380256186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 370731x465_poster_.png" crc="3761095787" ref="index"/>
+    <file name="pasted-svg-396394x464.svg" crc="35733818" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 396394x464_poster_.png" crc="3984266822" ref="index"/>
+    <file name="pasted-svg-432351x463.svg" crc="13737383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 432351x463_poster_.png" crc="463077386" ref="index"/>
+    <file name="pasted-svg-451074x572.svg" crc="390466181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 451074x572_poster_.png" crc="3834754405" ref="index"/>
+    <file name="pasted-svg-402478x572.svg" crc="4278541695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 402478x572_poster_.png" crc="3949174633" ref="index"/>
+    <file name="u869-4.png" crc="6636711" ref="variation-1"/>
+    <file name="color.gif" crc="487958089" seo="true" ref="variation-5">
+      <caption webpage="variation-5" alt=""/>
+    </file>
+    <file name="u1164-4.png" crc="4064891115" ref="variation-4"/>
+    <file name="u1099-4.png" crc="4237290734" ref="variation-3"/>
+  </folder>
+  <file name="index.html" crc="448973513" seo="true" mt="1541394873969" redirect="true"/>
+  <file name="variation-1.html" crc="4158453338" seo="true" mt="1541394898884" redirect="true"/>
+  <file name="variation-2.html" crc="4183159648" seo="true" mt="1541394990655" redirect="true"/>
+  <file name="variation-5.html" crc="530277430" seo="true" mt="1541395052764" redirect="true"/>
+  <file name="variation-4.html" crc="4165395466" seo="true" mt="1541395033424" redirect="true"/>
+  <file name="variation-3.html" crc="3877967990" seo="true" mt="1541395018117" redirect="true"/>
+  <file name="variation-1a.html" crc="193093537" seo="true" mt="1541423084329" redirect="true"/>
+  <file name="variation-2a.html" crc="376916434" seo="true" mt="1541394556413" redirect="true"/>
+  <file name="variation-3a.html" crc="4111878902" seo="true" mt="1541394623940" redirect="true"/>
+  <file name="variation-4a.html" crc="3999475148" seo="true" mt="1541394656113" redirect="true"/>
+  <file name="variation-5a.html" crc="94030378" seo="true" mt="1541394710716" redirect="true"/>
+</manifest>
